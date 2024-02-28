@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./components/Navbar";
-import Bannar from "./Bannar";
+import Bannar from "./components/Bannar";
 import Card from "./components/Card";
 import Form from "./components/Form";
 
